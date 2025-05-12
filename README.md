@@ -1,5 +1,6 @@
-# Translator
+# Real-time Translator
 A Python script that translates typed text in real-time using Google Translate. Simply type &lt; at the end of a phrase to instantly replace it with a translation (default: German). Supports multiple languages and runs as a background thread.
-You are welcome if u want to improve this simple thing with your code
+First u have to make a "pip install keyboard" and "pip install pip install googletrans==4.0.0-rc1"
 With "<" you will translate the phrase that you write
+You are welcome if u want to improve this simple thing with your code
 that's all
